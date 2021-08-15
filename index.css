@@ -1,0 +1,36 @@
+.section1 {
+    background-color: black;
+    color: #fff;
+}
+.navcolor {
+    color: #fff;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .marginst {
+      margin-top: 50px;
+      margin-bottom: 90px;
+  }
+  .marginst2 {
+      margin-top: 50px;
+  }
+  .marginst3 {
+    margin-bottom: 70px;
+}
+.fontst {
+    font-size: 14px;
+}
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+.cardst {
+    border: 1px solid grey;
+    /* width: 265px; */
+    border-radius: 5px;
+    padding-top: 10px;
+}
